@@ -3,4 +3,7 @@ As we all know, education is one of the most important factor for a country to d
 I first investigated the college graduation rate of Baltimore, Philadelphia and the average of the US. It turns out that Philadelphia is better than Baltimore and the average at a rate of 0.3446, while Baltimore is below the 0.3277 average at a rate of 0.2163.<br>
 In order to provide a little prove of my thought, I took a look at the household income of the two city. And the result is as predicted that Philadelphia has a higher average household income.<br>
 [Opportunity Altlas](https://opportunityatlas.org/)<br>
-[Analysis Excel and data visualizagion](https://github.com/hynz233/Comparing-Baltimore-city-and-Philadelphia-Graduation-rate-and-household-income/blob/master/Analysis.xlsx)
+[Analysis Excel and data visualizagion](https://github.com/hynz233/Comparing-Baltimore-city-and-Philadelphia-Graduation-rate-and-household-income/blob/master/Analysis.xlsx)<br>
+And also, I use python to generate the animated bar that compare the colleage graduation rate and household income of Baltimore, Philadelphia and the average of American city.<br>
+[Colleage graduation rate animated bar](https://github.com/hynz233/Comparing-Baltimore-city-and-Philadelphia-Graduation-rate-and-household-income/blob/master/Graduation%20Rate.png)<br>
+[Household income animated bar](https://github.com/hynz233/Comparing-Baltimore-city-and-Philadelphia-Graduation-rate-and-household-income/blob/master/Household%20income.png)<br>
